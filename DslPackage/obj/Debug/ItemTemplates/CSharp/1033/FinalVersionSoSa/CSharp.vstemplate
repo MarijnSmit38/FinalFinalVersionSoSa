@@ -1,0 +1,17 @@
+﻿<!--DSL Tools Language Template-->
+<VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TemplateData>
+		<TemplateID>{c9e13c97-7aa7-4619-88c1-87eae049810b}</TemplateID>
+		<Name Package="{c2cc025d-da05-4ce4-8fb6-20366a336fca}" ID="103"/>
+		<Description Package="{c2cc025d-da05-4ce4-8fb6-20366a336fca}" ID="102"/>
+		<Icon Package="{c2cc025d-da05-4ce4-8fb6-20366a336fca}" ID="201" />
+		<ProjectType>CSharp</ProjectType>
+		<SortOrder>360</SortOrder>
+		<DefaultName>FinalVersionSoSa.FinalVersionSoSa</DefaultName>
+	</TemplateData>
+	<TemplateContent>
+		<ProjectItem TargetFileName="$fileinputname$.FinalVersionSoSa">FinalVersionSoSa.FinalVersionSoSa</ProjectItem>
+		<ProjectItem TargetFileName="$fileinputname$.FinalVersionSoSa.diagram">FinalVersionSoSa.diagram</ProjectItem>
+	</TemplateContent>
+</VSTemplate>
+

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<soSa xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="f217ed9a-f26d-41f2-b5f9-2c22673ef2ad" xmlns="http://schemas.microsoft.com/dsltools/FinalVersionSoSa">
+  <elements>
+    <systematicLevel Id="8a61e0f1-3872-4fb3-804a-bede710de286" name="SystematicLevel1" />
+    <enablingLevel Id="929e7a41-38cc-4874-8b75-f1e53344a370" name="EnablingLevel1" />
+    <immediateLevel Id="37d2e2da-a8de-4e07-82d0-d55b6480dc2a" name="ImmediateLevel1">
+      <solution_Name>
+        <immediateLevelHasSolution_Name Id="29de8461-7c09-4144-957c-60ce45990c2e">
+          <solution_Name Id="a44ee942-1a59-406d-9be3-cb5babb77ec6" name="Solution" />
+        </immediateLevelHasSolution_Name>
+      </solution_Name>
+    </immediateLevel>
+  </elements>
+</soSa>

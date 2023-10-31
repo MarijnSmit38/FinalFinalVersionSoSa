@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<finalVersionSoSaDiagram dslVersion="1.0.0.0" Id="49d5f5f2-2ee9-4774-8602-2ad2d62663e2" absoluteBounds="0, 0, 15, 9" name="Test">
+  <soSaMoniker Id="f217ed9a-f26d-41f2-b5f9-2c22673ef2ad" />
+  <nestedChildShapes>
+    <systematicShape Id="dfce6c49-7bc6-400d-a847-83d3ecc1b5f5" absoluteBounds="1, 0.5, 13.75, 8.25">
+      <systematicLevelMoniker name="/f217ed9a-f26d-41f2-b5f9-2c22673ef2ad/SystematicLevel1" />
+    </systematicShape>
+    <enablingShape Id="058cc230-26f7-4531-b096-8fae64a66037" absoluteBounds="1.625, 0.5, 10.5, 6.125">
+      <enablingLevelMoniker name="/f217ed9a-f26d-41f2-b5f9-2c22673ef2ad/EnablingLevel1" />
+    </enablingShape>
+    <immediateShape Id="471ff927-2456-4a3c-bcef-29daa51729a0" absoluteBounds="2.25, 0.5, 7.625, 3.75">
+      <immediateLevelMoniker name="/f217ed9a-f26d-41f2-b5f9-2c22673ef2ad/ImmediateLevel1" />
+    </immediateShape>
+    <solutionShape Id="d2999864-e01a-4fa5-8c37-29e256d00e75" absoluteBounds="4.875, 0.625, 1.25, 1.25">
+      <solution_NameMoniker Id="a44ee942-1a59-406d-9be3-cb5babb77ec6" />
+    </solutionShape>
+  </nestedChildShapes>
+</finalVersionSoSaDiagram>

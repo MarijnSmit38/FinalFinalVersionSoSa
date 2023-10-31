@@ -1,0 +1,32 @@
+﻿<VSTemplateManifest Version="1.0" Locale="1033" xmlns="http://schemas.microsoft.com/developer/vstemplatemanifest/2015">
+  <VSTemplateContainer TemplateType="Item">
+    <RelativePathOnDisk>CSharp\1033\FinalVersionSoSa</RelativePathOnDisk>
+    <TemplateFileName>CSharp.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <TemplateID>{c9e13c97-7aa7-4619-88c1-87eae049810b}</TemplateID>
+        <Name Package="{c2cc025d-da05-4ce4-8fb6-20366a336fca}" ID="103" />
+        <Description Package="{c2cc025d-da05-4ce4-8fb6-20366a336fca}" ID="102" />
+        <Icon Package="{c2cc025d-da05-4ce4-8fb6-20366a336fca}" ID="201" />
+        <ProjectType>CSharp</ProjectType>
+        <SortOrder>360</SortOrder>
+        <DefaultName>FinalVersionSoSa.FinalVersionSoSa</DefaultName>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+  <VSTemplateContainer TemplateType="Item">
+    <RelativePathOnDisk>VisualBasic\1033\FinalVersionSoSa</RelativePathOnDisk>
+    <TemplateFileName>VisualBasic.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
+        <TemplateID>{04bd48d9-50bd-4ec8-8538-9cc7a75cab2e}</TemplateID>
+        <Name Package="{c2cc025d-da05-4ce4-8fb6-20366a336fca}" ID="103" />
+        <Description Package="{c2cc025d-da05-4ce4-8fb6-20366a336fca}" ID="102" />
+        <Icon Package="{c2cc025d-da05-4ce4-8fb6-20366a336fca}" ID="201" />
+        <ProjectType>VisualBasic</ProjectType>
+        <SortOrder>360</SortOrder>
+        <DefaultName>FinalVersionSoSa.FinalVersionSoSa</DefaultName>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+</VSTemplateManifest>
